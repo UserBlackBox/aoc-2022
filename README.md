@@ -11,4 +11,5 @@ This is a public repository of my 2022 Advent of Code solutions. I am trying to 
 | Day 6: Tuning Trouble | `dec06.cpp` for `data/dec06` |
 | Day 7: No Space Left On Device | Wrote `dec07.cpp` to process `data/dec07` but the program did not work completely due to some memory issues. I used the parts of the C++ program that worked to clean up the input into `data/dec07.processed` for `dec07.py` to process and get the final answers |
 | Day 8: Treetop Tree House | `dec08.cpp` for `data/dec08` |
+| Day 9: Rope Bridge | `dec09.cpp` for `data/dec09` |
 
