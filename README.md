@@ -13,4 +13,4 @@ This is a public repository of my 2022 Advent of Code solutions. I am trying to 
 | Day 8: Treetop Tree House | `dec08.cpp` for `data/dec08` |
 | Day 9: Rope Bridge | `dec09.cpp` for `data/dec09` |
 | Day 10: Cathode-Ray Tube | `dec10.cpp` for `data/dec10` |
-
+| Day 11: Monkey in the Middle | `dec11.cpp` for `data/dec11` |
